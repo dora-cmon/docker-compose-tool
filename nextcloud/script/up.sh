@@ -1,11 +1,3 @@
-
-###
- # @Date         : 2020-10-11 10:59:26
- # @LastEditors  : LiZhenglin
- # @LastEditTime : 2020-10-15 20:04:37
- # @FilePath     : /nextcloud/script/up.sh
-### 
-
 #!/bin/bash
 
 # 使用现有网络，将 NET 设为现有网络名称
