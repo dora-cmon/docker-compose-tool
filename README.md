@@ -1,5 +1,10 @@
 # Docker Compose
 
+**项目地址**
+
+gitee: https://gitee.com/dora-cmon/docker-compose-tool.git
+github: https://github.com/dora-cmon/docker-compose-tool.git
+
 利用 docker-compose 一键部署项目
 
 ## [nextcloud](nextcloud/README.md)
